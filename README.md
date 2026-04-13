@@ -1,11 +1,10 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&text=Hello,%I'm%Giyas!&height=100&section=header"/>
 </p>
-<a href="www.linkedin.com/in/g1y45k050k0">
-  <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/4d71d413-b99d-45a0-b85d-ed302bb6eebc" />
-</a>
+
 ---
 
+<h1 align="center">About Me</h1>
 <p>
 I’m a full-stack developer with a growing passion for both front-end and back-end development. I started out more focused on building clean, responsive user interfaces, but over time, I’ve come to enjoy the logic, structure, and problem-solving that comes with backend development just as much.
 
@@ -17,6 +16,8 @@ More recently, I’ve developed an interest in data analysis, and I’m excited 
 </p>
 
 ---
+
+<h1 align="center">About Me</h1>
 
 ```yaml
 name: Giyas Kosoko
@@ -71,3 +72,15 @@ hobbies:
     "Learning & Teaching"
   ]
 ```
+
+---
+
+<h1 align="center">Connect With Me</h1>
+
+<a href="www.linkedin.com/in/g1y45k050k0">
+  <img width="50" height="50" alt="LinkedIn Logo" src="https://github.com/user-attachments/assets/4d71d413-b99d-45a0-b85d-ed302bb6eebc" />
+</a>
+<a href="mailto:atandagk@outlook.com">
+<img width="50" height="50" alt="Email Icon" src="https://github.com/user-attachments/assets/6f0e2eb3-d6be-429b-a54a-1474eb992c2c" />
+</a>
+
