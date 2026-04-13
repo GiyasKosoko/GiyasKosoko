@@ -105,11 +105,11 @@ hobbies:
 
 <h1 align="center">Connect With Me</h1>
 
-
-  <a href="www.linkedin.com/in/g1y45k050k0">
+<div align="center">
+  <a href="https://www.linkedin.com/in/g1y45k050k0">
   <img width="50" height="50" alt="LinkedIn Logo" src="https://github.com/user-attachments/assets/4d71d413-b99d-45a0-b85d-ed302bb6eebc" />
 </a>
-<a href="mailto:atandagk@outlook.com">
+<a href="mailto:atandagk@outlook.com" target="_blank">
 <img width="50" height="50" alt="Email Icon" src="https://github.com/user-attachments/assets/6f0e2eb3-d6be-429b-a54a-1474eb992c2c" />
 </a>
-
+</div>
