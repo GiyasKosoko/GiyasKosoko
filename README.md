@@ -17,7 +17,7 @@ More recently, I’ve developed an interest in data analysis, and I’m excited 
 
 ---
 
-<h1 align="center">About Me</h1>
+<h1 align="center">Profile</h1>
 
 ```yaml
 name: Giyas Kosoko
@@ -25,8 +25,7 @@ located_in: Brampton, Ontario
 current_job: Full Stack Developer & Coding Instructor
 education:
   [
-    "Computer Programming Diploma - Humber Polytechnic",
-    "Self-driven learning in Web Development & Data Analysis"
+    "Computer Programming Diploma - Humber Polytechnic"
   ]
 
 fields_of_interests:
@@ -34,7 +33,6 @@ fields_of_interests:
     "Full Stack Web Development",
     "Data Analysis",
     "Mobile Development",
-    "UI/UX Design",
     "Software Engineering",
     "Social Impact Technology"
   ]
@@ -42,11 +40,10 @@ fields_of_interests:
 technical_background:
   [
     "Full Stack Developer (React, Node.js, REST APIs)",
-    "Front-End Developer (HTML, CSS, JavaScript, Responsive Design)",
+    "Front-End Developer (HTML, CSS, JavaScript)",
     "Back-End Development (Express.js, MongoDB, SQL)",
-    "Data Analysis (Python, Excel, Data Visualization)",
-    "Coding Instructor & Program Coordinator",
-    "Agile Development & Debugging"
+    "Data Analysis (Python, Tableau, R, R Studio)",
+    "Coding Instructor & Program Coordinator"
   ]
 
 currently_learning:
@@ -56,20 +53,14 @@ currently_learning:
     "Data Visualization & Analytics"
   ]
 
-2024 Goals:
-  [
-    "Build impactful full-stack and data-driven projects",
-    "Expand into mobile development",
-    "Strengthen backend and system design skills"
-  ]
-
 hobbies:
   [
-    "Coding Projects",
-    "Gaming",
-    "Exploring New Tech",
-    "Designing Interfaces",
-    "Learning & Teaching"
+    "Coding",
+    "Learning and Teaching",
+    "Reading and Writing",
+    "Pixel Art",
+    "Crocheting and Sewing",
+    "Animated Media"
   ]
 ```
 
