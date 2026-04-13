@@ -81,7 +81,7 @@ hobbies:
 <img width="50" height="50" alt="mongoose Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" />
 <img width="50" height="50" alt="mysql Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 <img width="50" height="50" alt="netbeans Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netbeans/netbeans-original.svg" />
-<img width="50" height="50" alt="nextjs Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" />
+<img width="50" height="50" alt="nextjs Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
 <img width="50" height="50" alt="nodejs Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
 <img width="50" height="50" alt="nodemon Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/nodemon-original.svg" />
 <img width="50" height="50" alt="npm Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original.svg" />
@@ -105,11 +105,11 @@ hobbies:
 
 <h1 align="center">Connect With Me</h1>
 
-<div align="center">
+
   <a href="www.linkedin.com/in/g1y45k050k0">
   <img width="50" height="50" alt="LinkedIn Logo" src="https://github.com/user-attachments/assets/4d71d413-b99d-45a0-b85d-ed302bb6eebc" />
 </a>
 <a href="mailto:atandagk@outlook.com">
 <img width="50" height="50" alt="Email Icon" src="https://github.com/user-attachments/assets/6f0e2eb3-d6be-429b-a54a-1474eb992c2c" />
 </a>
-</div>
+
