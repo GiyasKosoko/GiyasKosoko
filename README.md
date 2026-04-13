@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&text=Hello,% I'm% Giyas!&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&text=Hello,%I'm%Giyas!&height=100&section=header"/>
 </p>
-
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ---
 
 <p>
