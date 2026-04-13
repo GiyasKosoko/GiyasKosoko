@@ -1,7 +1,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&text=Hello,%I'm%Giyas!&height=100&section=header"/>
 </p>
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+<a href="www.linkedin.com/in/g1y45k050k0">
+  <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/4d71d413-b99d-45a0-b85d-ed302bb6eebc" />
+</a>
 ---
 
 <p>
