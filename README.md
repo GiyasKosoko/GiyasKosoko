@@ -102,6 +102,8 @@ hobbies:
 
 ---
 
+---
+
 <h1 align="center">Connect With Me</h1>
 
 <div align="center">
